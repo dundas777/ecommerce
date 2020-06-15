@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "2JHhHM5v9y2Adx61u2UAo2RlmOBrKglP/k0Jf/OfYM9TAGlko/3LoGrCW/gTy2nWYroDzJW2w8V14kl8tCL8oA==",
+  "success": true,
+  "projectFilePath": "C:\\aawork\\CodeProjects\\Learning\\Learning-AzureMicroservicesWithDotNetCore-Linkedin\\ECommerce\\ECommerce.API.Search\\ECommerce.API.Search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.5\\microsoft.extensions.configuration.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.5\\microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.5\\microsoft.extensions.configuration.binder.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.http\\3.1.5\\microsoft.extensions.http.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.5\\microsoft.extensions.http.polly.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.logging\\3.1.5\\microsoft.extensions.logging.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\dell 7280\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

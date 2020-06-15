@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ECommerce.API.Orders.Interfaces
+{
+    public interface IOrdersProvider
+    {
+        Task<(bool IsSuccess, IEnumerable<Models.Order> Orders, string ErrorMessage)> GetOrdersAsync(int CustomerId);
+        Task<(bool IsSuccess, Models.Order Order, string ErrorMessage)> GetOrderAsync(int id);
+    }
+}
